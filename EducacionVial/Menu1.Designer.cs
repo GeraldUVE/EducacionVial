@@ -45,7 +45,7 @@
             // pictureBox6
             // 
             this.pictureBox6.Image = global::EducacionVial.Properties.Resources.Mostrar_solo_para_ingresar_el_nombre_de_usuario_y_luego_de_poner_un_usuario_existente__aparecer_el_cuadrito_donde_se_agrega_la_contraseña__4_;
-            this.pictureBox6.Location = new System.Drawing.Point(339, 368);
+            this.pictureBox6.Location = new System.Drawing.Point(340, 368);
             this.pictureBox6.Name = "pictureBox6";
             this.pictureBox6.Size = new System.Drawing.Size(126, 56);
             this.pictureBox6.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;

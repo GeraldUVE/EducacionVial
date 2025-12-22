@@ -144,5 +144,55 @@ namespace EducacionVial.Properties {
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap PROYECT_VIAL {
+            get {
+                object obj = ResourceManager.GetObject("PROYECT-VIAL", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap PROYECT_VIAL__1_ {
+            get {
+                object obj = ResourceManager.GetObject("PROYECT-VIAL (1)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap PROYECT_VIAL__2_ {
+            get {
+                object obj = ResourceManager.GetObject("PROYECT-VIAL (2)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap PROYECT_VIAL__3_ {
+            get {
+                object obj = ResourceManager.GetObject("PROYECT-VIAL (3)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap PROYECT_VIAL__4_ {
+            get {
+                object obj = ResourceManager.GetObject("PROYECT-VIAL (4)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
     }
 }
