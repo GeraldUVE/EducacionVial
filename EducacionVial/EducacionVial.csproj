@@ -46,6 +46,42 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="F2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="F2.Designer.cs">
+      <DependentUpon>F2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="F2bici.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="F2bici.Designer.cs">
+      <DependentUpon>F2bici.cs</DependentUpon>
+    </Compile>
+    <Compile Include="F2Carro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="F2Carro.Designer.cs">
+      <DependentUpon>F2Carro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="F2menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="F2menu.Designer.cs">
+      <DependentUpon>F2menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="F2moto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="F2moto.Designer.cs">
+      <DependentUpon>F2moto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="F2mtoelec.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="F2mtoelec.Designer.cs">
+      <DependentUpon>F2mtoelec.cs</DependentUpon>
+    </Compile>
     <Compile Include="IniSe.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -66,6 +102,24 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="F2.resx">
+      <DependentUpon>F2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="F2bici.resx">
+      <DependentUpon>F2bici.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="F2Carro.resx">
+      <DependentUpon>F2Carro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="F2menu.resx">
+      <DependentUpon>F2menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="F2moto.resx">
+      <DependentUpon>F2moto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="F2mtoelec.resx">
+      <DependentUpon>F2mtoelec.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="IniSe.resx">
       <DependentUpon>IniSe.cs</DependentUpon>
     </EmbeddedResource>
