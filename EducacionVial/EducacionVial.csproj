@@ -82,6 +82,36 @@
     <Compile Include="F2mtoelec.Designer.cs">
       <DependentUpon>F2mtoelec.cs</DependentUpon>
     </Compile>
+    <Compile Include="F3bici.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="F3bici.Designer.cs">
+      <DependentUpon>F3bici.cs</DependentUpon>
+    </Compile>
+    <Compile Include="F3carro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="F3carro.Designer.cs">
+      <DependentUpon>F3carro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="F3menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="F3menu.Designer.cs">
+      <DependentUpon>F3menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="F3moto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="F3moto.Designer.cs">
+      <DependentUpon>F3moto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="F3motoelec.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="F3motoelec.Designer.cs">
+      <DependentUpon>F3motoelec.cs</DependentUpon>
+    </Compile>
     <Compile Include="IniSe.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -119,6 +149,21 @@
     </EmbeddedResource>
     <EmbeddedResource Include="F2mtoelec.resx">
       <DependentUpon>F2mtoelec.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="F3bici.resx">
+      <DependentUpon>F3bici.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="F3carro.resx">
+      <DependentUpon>F3carro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="F3menu.resx">
+      <DependentUpon>F3menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="F3moto.resx">
+      <DependentUpon>F3moto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="F3motoelec.resx">
+      <DependentUpon>F3motoelec.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="IniSe.resx">
       <DependentUpon>IniSe.cs</DependentUpon>
