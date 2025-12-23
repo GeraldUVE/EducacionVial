@@ -19,9 +19,7 @@ namespace EducacionVial
 
         private void BUTONREGREMOTO_Click(object sender, EventArgs e)
         {
-            F2moto f2moto = new F2menu();
-            f2moto.show();
-            this.Hide();
+
         }
     }
 }

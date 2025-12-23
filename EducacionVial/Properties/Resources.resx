@@ -124,6 +124,9 @@
   <data name="Mostrar solo para ingresar el nombre de usuario y luego de poner un usuario existente, aparecer el cuadrito donde se agrega la contraseña (2)" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Mostrar solo para ingresar el nombre de usuario y luego de poner un usuario existente, aparecer el cuadrito donde se agrega la contraseña (2).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="Salida" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Salida.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="Mostrar solo para ingresar el nombre de usuario y luego de poner un usuario existente, aparecer el cuadrito donde se agrega la contraseña (3)" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Mostrar solo para ingresar el nombre de usuario y luego de poner un usuario existente, aparecer el cuadrito donde se agrega la contraseña (3).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -157,7 +160,7 @@
   <data name="Ejemplo xd" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Ejemplo xd.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Salida" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Salida.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Objetivo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Objetivo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

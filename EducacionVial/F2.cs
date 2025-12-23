@@ -17,10 +17,15 @@ namespace EducacionVial
             InitializeComponent();
         }
 
-        private void butonaprender_Click(object sender, EventArgs e)
+        private void R3(object sender, EventArgs e)
         {
-            F2 f2 = new F2menu();
-            f2.Show();
+
+        }
+
+        private void F2Aprender(object sender, EventArgs e)
+        {
+            F2menu f2menu = new F2menu();
+            f2menu.Show();
             this.Hide();
         }
     }

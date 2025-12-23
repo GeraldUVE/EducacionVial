@@ -138,6 +138,16 @@ namespace EducacionVial.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Objetivo {
+            get {
+                object obj = ResourceManager.GetObject("Objetivo", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap parte_de_arribapng {
             get {
                 object obj = ResourceManager.GetObject("parte de arribapng", resourceCulture);

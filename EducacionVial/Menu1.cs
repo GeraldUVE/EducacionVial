@@ -17,26 +17,28 @@ namespace EducacionVial
             InitializeComponent();
         }
 
-        private void M1Obj(object sender, EventArgs e)
+        private void S2(object sender, EventArgs e)
         {
-
+            this.Close();
         }
 
-        private void pictureBox6_Click(object sender, EventArgs e)
+        private void R1(object sender, EventArgs e)
         {
             IniSe inise = new IniSe();
             inise.Show();
             this.Hide();
         }
 
-        private void label1_Click(object sender, EventArgs e)
+        private void Objetivo(object sender, EventArgs e)
         {
 
         }
 
-        private void Salida_Click(object sender, EventArgs e)
+        private void Funcionalidades(object sender, EventArgs e)
         {
-            this.Close();
+            Menu2 menu2 = new Menu2();
+            menu2.Show();
+            this.Hide();
         }
     }
 }

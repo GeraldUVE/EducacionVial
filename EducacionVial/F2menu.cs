@@ -17,44 +17,33 @@ namespace EducacionVial
             InitializeComponent();
         }
 
-        private void label1_Click(object sender, EventArgs e)
+        private void R4(object sender, EventArgs e)
+        {
+            F2 F2 = new F2();
+            F2.Show();
+            this.Hide();
+        }
+
+        private void Carro(object sender, EventArgs e)
+        {
+            F2Carro f2carro = new F2Carro();
+            f2carro.Show();
+            this.Hide();
+        }
+
+        private void Bici(object sender, EventArgs e)
         {
 
         }
 
-        private void butonmoto_Click(object sender, EventArgs e)
+        private void Moto(object sender, EventArgs e)
         {
-            F2menu f2moto = F2moto();
-            f2moto.Show();
-            this.Hide();
+
         }
 
-        private void butoncarro_Click(object sender, EventArgs e)
+        private void MotoEle(object sender, EventArgs e)
         {
-            F2menu f2menu = new F2Carro();
-            femenu.show(f2menu);
-            this.Hide();
-        }
 
-        private void regresarprinc_Click(object sender, EventArgs e)
-        {
-            F2menu f2regre new F2();
-            f2regre.show();
-            this.Hide();
-        }
-
-        private void butonbici_Click(object sender, EventArgs e)
-        {
-            F2menu f2Bici = new F2bici();
-            f2Bici.Show();
-            this.Hide();
-        }
-
-        private void butonelec_Click(object sender, EventArgs e)
-        {
-            F2menu f2elec F2mtoelec();
-            f2elec.Show();
-            this.Hide();
         }
     }
 }

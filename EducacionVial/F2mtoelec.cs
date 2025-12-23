@@ -19,9 +19,7 @@ namespace EducacionVial
 
         private void BUTONREGREELEC_Click(object sender, EventArgs e)
         {
-            F2mtoelec regre F2menu();
-            regre.Show();
-            this.Hide();
+
         }
     }
 }

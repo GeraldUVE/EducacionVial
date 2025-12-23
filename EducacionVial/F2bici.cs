@@ -19,9 +19,7 @@ namespace EducacionVial
 
         private void BUTONREGREBICI_Click(object sender, EventArgs e)
         {
-            F2bici biciregre F2menu();
-            biciregre.Show();
-            this.Hide();
+
         }
     }
 }

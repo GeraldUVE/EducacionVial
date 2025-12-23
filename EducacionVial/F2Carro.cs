@@ -17,10 +17,10 @@ namespace EducacionVial
             InitializeComponent();
         }
 
-        private void BUTOREGRECAR_Click(object sender, EventArgs e)
+        private void R6(object sender, EventArgs e)
         {
-            F2Carro car F2menu();
-            car.Show();
+            F2menu f2menu = new F2menu();
+            f2menu.Show();
             this.Hide();
         }
     }
