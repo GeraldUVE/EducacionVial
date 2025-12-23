@@ -40,8 +40,13 @@ namespace EducacionVial
         private void button1_Click(object sender, EventArgs e)
         {
             Menu1 menu1 = new Menu1();
-            menu1.Show(this);
+            menu1.Show();
             this.Hide();
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            this.Close();
         }
     }
 }

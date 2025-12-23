@@ -121,17 +121,17 @@
   <data name="PROYECT-VIAL (2)" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\PROYECT-VIAL (2).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Mostrar solo para ingresar el nombre de usuario y luego de poner un usuario existente, aparecer el cuadrito donde se agrega la contraseña (3)" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Mostrar solo para ingresar el nombre de usuario y luego de poner un usuario existente, aparecer el cuadrito donde se agrega la contraseña (3).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Ejemplo xd" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Ejemplo xd.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="Mostrar solo para ingresar el nombre de usuario y luego de poner un usuario existente, aparecer el cuadrito donde se agrega la contraseña (2)" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Mostrar solo para ingresar el nombre de usuario y luego de poner un usuario existente, aparecer el cuadrito donde se agrega la contraseña (2).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="PROYECT-VIAL (3)" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\PROYECT-VIAL (3).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Mostrar solo para ingresar el nombre de usuario y luego de poner un usuario existente, aparecer el cuadrito donde se agrega la contraseña (3)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Mostrar solo para ingresar el nombre de usuario y luego de poner un usuario existente, aparecer el cuadrito donde se agrega la contraseña (3).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="PROYECT-VIAL (4)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\PROYECT-VIAL (4).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Mostrar solo para ingresar el nombre de usuario y luego de poner un usuario existente, aparecer el cuadrito donde se agrega la contraseña" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Mostrar solo para ingresar el nombre de usuario y luego de poner un usuario existente, aparecer el cuadrito donde se agrega la contraseña.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Mostrar solo para ingresar el nombre de usuario y luego de poner un usuario existente, aparecer el cuadrito donde se agrega la contraseña (4)" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Mostrar solo para ingresar el nombre de usuario y luego de poner un usuario existente, aparecer el cuadrito donde se agrega la contraseña (4).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -139,11 +139,8 @@
   <data name="Mostrar solo para ingresar el nombre de usuario y luego de poner un usuario existente, aparecer el cuadrito donde se agrega la contraseña (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Mostrar solo para ingresar el nombre de usuario y luego de poner un usuario existente, aparecer el cuadrito donde se agrega la contraseña (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="PROYECT-VIAL (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\PROYECT-VIAL (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Mostrar solo para ingresar el nombre de usuario y luego de poner un usuario existente, aparecer el cuadrito donde se agrega la contraseña" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Mostrar solo para ingresar el nombre de usuario y luego de poner un usuario existente, aparecer el cuadrito donde se agrega la contraseña.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="parte de arribapng" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\parte de arribapng.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Ejemplo xd2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Ejemplo xd2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -151,10 +148,16 @@
   <data name="PROYECT-VIAL" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\PROYECT-VIAL.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="parte de arribapng" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\parte de arribapng.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="PROYECT-VIAL (3)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\PROYECT-VIAL (3).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="PROYECT-VIAL (4)" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\PROYECT-VIAL (4).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="PROYECT-VIAL (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\PROYECT-VIAL (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ejemplo xd" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Ejemplo xd.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Salida" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Salida.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

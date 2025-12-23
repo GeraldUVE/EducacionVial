@@ -25,8 +25,18 @@ namespace EducacionVial
         private void pictureBox6_Click(object sender, EventArgs e)
         {
             IniSe inise = new IniSe();
-            inise.Show(this);
+            inise.Show();
             this.Hide();
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Salida_Click(object sender, EventArgs e)
+        {
+            this.Close();
         }
     }
 }
