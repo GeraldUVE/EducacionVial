@@ -31,5 +31,17 @@ namespace EducacionVial
         {
 
         }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Menu1 menu1 = new Menu1();
+            menu1.Show(this);
+            this.Hide();
+        }
     }
 }

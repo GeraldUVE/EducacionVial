@@ -16,5 +16,17 @@ namespace EducacionVial
         {
             InitializeComponent();
         }
+
+        private void M1Obj(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox6_Click(object sender, EventArgs e)
+        {
+            IniSe inise = new IniSe();
+            inise.Show(this);
+            this.Hide();
+        }
     }
 }
