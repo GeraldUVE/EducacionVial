@@ -17,9 +17,11 @@ namespace EducacionVial
             InitializeComponent();
         }
 
-        private void BUTONREGREBICI_Click(object sender, EventArgs e)
+        private void R6(object sender, EventArgs e)
         {
-
+            F2menu f2menu = new F2menu();
+            f2menu.Show();
+            this.Hide();
         }
     }
 }

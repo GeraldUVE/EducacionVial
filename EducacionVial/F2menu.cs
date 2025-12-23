@@ -33,17 +33,23 @@ namespace EducacionVial
 
         private void Bici(object sender, EventArgs e)
         {
-
+            F2bici f2bici = new F2bici();
+            f2bici.Show();
+            this.Hide();
         }
 
         private void Moto(object sender, EventArgs e)
         {
-
+            F2moto f2moto = new F2moto();
+            f2moto.Show();
+            this.Hide();
         }
 
         private void MotoEle(object sender, EventArgs e)
         {
-
+            F2mtoelec f2electrica = new F2mtoelec();
+            f2electrica.Show();
+            this.Hide();
         }
     }
 }

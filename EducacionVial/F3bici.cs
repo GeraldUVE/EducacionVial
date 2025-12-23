@@ -21,5 +21,12 @@ namespace EducacionVial
         {
 
         }
+
+        private void R(object sender, EventArgs e)
+        {
+            F3menu menu2 = new F3menu();
+            menu2.Show();
+            this.Hide();
+        }
     }
 }

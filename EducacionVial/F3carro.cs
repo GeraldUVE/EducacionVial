@@ -21,5 +21,12 @@ namespace EducacionVial
         {
 
         }
+
+        private void R(object sender, EventArgs e)
+        {
+            F3menu MecaBa = new F3menu();
+            MecaBa.Show();
+            this.Hide();
+        }
     }
 }

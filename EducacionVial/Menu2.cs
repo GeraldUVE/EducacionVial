@@ -35,5 +35,12 @@ namespace EducacionVial
             InsVial.Show();
             this.Hide();
         }
+
+        private void F3Ingre(object sender, EventArgs e)
+        {
+            F3menu MecaBa = new F3menu();
+            MecaBa.Show();
+            this.Hide();
+        }
     }
 }

@@ -34,16 +34,16 @@
             this.panel2 = new System.Windows.Forms.Panel();
             this.label2 = new System.Windows.Forms.Label();
             this.button1 = new System.Windows.Forms.Button();
+            this.pictureBox4 = new System.Windows.Forms.PictureBox();
             this.tableLayoutPanel1 = new System.Windows.Forms.TableLayoutPanel();
+            this.Salida = new System.Windows.Forms.Button();
             this.pictureBox2 = new System.Windows.Forms.PictureBox();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
-            this.pictureBox4 = new System.Windows.Forms.PictureBox();
-            this.Salida = new System.Windows.Forms.Button();
             this.panel2.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).BeginInit();
             this.tableLayoutPanel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).BeginInit();
             this.SuspendLayout();
             // 
             // textBox1
@@ -54,7 +54,7 @@
             this.textBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F);
             this.textBox1.Location = new System.Drawing.Point(185, 86);
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(415, 34);
+            this.textBox1.Size = new System.Drawing.Size(414, 34);
             this.textBox1.TabIndex = 1;
             this.textBox1.TextChanged += new System.EventHandler(this.Usuario);
             // 
@@ -82,7 +82,7 @@
             this.panel2.Controls.Add(this.label1);
             this.panel2.Location = new System.Drawing.Point(134, 142);
             this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(664, 185);
+            this.panel2.Size = new System.Drawing.Size(663, 185);
             this.panel2.TabIndex = 6;
             // 
             // label2
@@ -103,13 +103,24 @@
             this.button1.BackColor = System.Drawing.Color.ForestGreen;
             this.button1.Font = new System.Drawing.Font("Lucida Console", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button1.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.button1.Location = new System.Drawing.Point(185, 130);
+            this.button1.Location = new System.Drawing.Point(184, 130);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(291, 39);
             this.button1.TabIndex = 7;
             this.button1.Text = "INGRESAR";
             this.button1.UseVisualStyleBackColor = false;
             this.button1.Click += new System.EventHandler(this.Ingresar);
+            // 
+            // pictureBox4
+            // 
+            this.pictureBox4.BackColor = System.Drawing.Color.White;
+            this.pictureBox4.Image = global::EducacionVial.Properties.Resources.Mostrar_solo_para_ingresar_el_nombre_de_usuario_y_luego_de_poner_un_usuario_existente__aparecer_el_cuadrito_donde_se_agrega_la_contraseña;
+            this.pictureBox4.Location = new System.Drawing.Point(0, 15);
+            this.pictureBox4.Name = "pictureBox4";
+            this.pictureBox4.Size = new System.Drawing.Size(161, 154);
+            this.pictureBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox4.TabIndex = 5;
+            this.pictureBox4.TabStop = false;
             // 
             // tableLayoutPanel1
             // 
@@ -118,7 +129,7 @@
             this.tableLayoutPanel1.ColumnCount = 3;
             this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 16.44172F));
             this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 83.55828F));
-            this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 132F));
+            this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 133F));
             this.tableLayoutPanel1.Controls.Add(this.panel2, 1, 1);
             this.tableLayoutPanel1.Controls.Add(this.Salida, 2, 2);
             this.tableLayoutPanel1.Dock = System.Windows.Forms.DockStyle.Fill;
@@ -130,6 +141,21 @@
             this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 143F));
             this.tableLayoutPanel1.Size = new System.Drawing.Size(934, 474);
             this.tableLayoutPanel1.TabIndex = 8;
+            // 
+            // Salida
+            // 
+            this.Salida.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
+            this.Salida.BackColor = System.Drawing.Color.White;
+            this.Salida.BackgroundImage = global::EducacionVial.Properties.Resources.Salida;
+            this.Salida.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.Salida.FlatAppearance.BorderSize = 0;
+            this.Salida.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Salida.Location = new System.Drawing.Point(862, 408);
+            this.Salida.Name = "Salida";
+            this.Salida.Size = new System.Drawing.Size(69, 63);
+            this.Salida.TabIndex = 7;
+            this.Salida.UseVisualStyleBackColor = false;
+            this.Salida.Click += new System.EventHandler(this.S1);
             // 
             // pictureBox2
             // 
@@ -155,32 +181,6 @@
             this.pictureBox1.TabIndex = 0;
             this.pictureBox1.TabStop = false;
             // 
-            // pictureBox4
-            // 
-            this.pictureBox4.BackColor = System.Drawing.Color.White;
-            this.pictureBox4.Image = global::EducacionVial.Properties.Resources.Mostrar_solo_para_ingresar_el_nombre_de_usuario_y_luego_de_poner_un_usuario_existente__aparecer_el_cuadrito_donde_se_agrega_la_contraseña;
-            this.pictureBox4.Location = new System.Drawing.Point(0, 15);
-            this.pictureBox4.Name = "pictureBox4";
-            this.pictureBox4.Size = new System.Drawing.Size(161, 154);
-            this.pictureBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox4.TabIndex = 5;
-            this.pictureBox4.TabStop = false;
-            // 
-            // Salida
-            // 
-            this.Salida.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
-            this.Salida.BackColor = System.Drawing.Color.White;
-            this.Salida.BackgroundImage = global::EducacionVial.Properties.Resources.Salida;
-            this.Salida.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.Salida.FlatAppearance.BorderSize = 0;
-            this.Salida.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.Salida.Location = new System.Drawing.Point(862, 408);
-            this.Salida.Name = "Salida";
-            this.Salida.Size = new System.Drawing.Size(69, 63);
-            this.Salida.TabIndex = 7;
-            this.Salida.UseVisualStyleBackColor = false;
-            this.Salida.Click += new System.EventHandler(this.S1);
-            // 
             // IniSe
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -195,10 +195,10 @@
             this.Text = "IniSe";
             this.panel2.ResumeLayout(false);
             this.panel2.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).EndInit();
             this.tableLayoutPanel1.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 

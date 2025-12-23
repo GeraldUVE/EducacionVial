@@ -19,7 +19,9 @@ namespace EducacionVial
 
         private void R3(object sender, EventArgs e)
         {
-
+            Menu2 menu2 = new Menu2();
+            menu2.Show();
+            this.Hide();
         }
 
         private void F2Aprender(object sender, EventArgs e)

@@ -16,5 +16,17 @@ namespace EducacionVial
         {
             InitializeComponent();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void R(object sender, EventArgs e)
+        {
+            F3menu menu2 = new F3menu();
+            menu2.Show();
+            this.Hide();
+        }
     }
 }

@@ -126,7 +126,7 @@ de apoyo tanto para estudiantes como para instituciones educativas o escuelas de
   <data name="pictureBox6.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAATkAAAFkCAYAAABb8UzYAAAAIGNIUk0AAHolAACAgwAA+f8AAIDoAABS
-        CAABFVgAADqXAAAXb9daH5AAAAAJcEhZcwAADsMAAA7DAcdvqGQAAFPjSURBVHhe7Z1ngBRV1oYl5yRJ
+        CAABFVgAADqXAAAXb9daH5AAAAAJcEhZcwAADsIAAA7CARUoSoAAAFPjSURBVHhe7Z1ngBRV1oYl5yRJ
         RRRUJJgQEFEwK6CgqKgEQTGBSBIFlSR5BoYomMMaWfOac0AUJUky57DGNe/q564ic77znlunurqnerp7
         pid1nx8PPVTdunXje8+NtcP814kMwzAyiQUbiWasJXr5KyITOcMwMg4TOcMwMhoTOcMwMhoTOcMwMhoT
         OcMwMhoTOcMwMhoTOcMwMhoTOcMwMhoTOcMwMhoTOcMwMhoTOcMwMhoTOcMwMhoTOcMwMhoTOcMwMhoT
@@ -490,7 +490,7 @@ de apoyo tanto para estudiantes como para instituciones educativas o escuelas de
   <data name="pictureBox5.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAATkAAAFkCAYAAABb8UzYAAAAIGNIUk0AAHolAACAgwAA+f8AAIDoAABS
-        CAABFVgAADqXAAAXb9daH5AAAAAJcEhZcwAADsMAAA7DAcdvqGQAAH4MSURBVHhe7V0FnBXVF5Zalu4G
+        CAABFVgAADqXAAAXb9daH5AAAAAJcEhZcwAADsIAAA7CARUoSoAAAH4MSURBVHhe7V0FnBXVF5Zalu4G
         pbsb6e5uQbq7u2N36W4EEcQWUAQllG4QAQPBwhbQv60gnP/9zsx5O/t2dllggd33zvx+H4+duXPnzsy9
         35y65z426xSRQqFQ+BLmnCaacozowLdESnIKhcLnoCSnUCh8GkpyCoXCp6Ekp1AofBpKcgqFwqehJKdQ
         KHwaSnIKhcKnoSSnUCh8GkpyCoXCp6Ekp1AofBpKcgqFwqehJKdQKHwaSnIKhcKnoSSnUMQEmIEomG3D
@@ -1034,7 +1034,7 @@ de apoyo tanto para estudiantes como para instituciones educativas o escuelas de
   <data name="pictureBox3.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAATkAAAFkCAYAAABb8UzYAAAAIGNIUk0AAHolAACAgwAA+f8AAIDoAABS
-        CAABFVgAADqXAAAXb9daH5AAAAAJcEhZcwAADsMAAA7DAcdvqGQAAGhISURBVHhe7Z13gBRF9sdFcgYl
+        CAABFVgAADqXAAAXb9daH5AAAAAJcEhZcwAADsIAAA7CARUoSoAAAGhISURBVHhe7Z13gBRF9sdFcgYl
         Cig5KyBJRCQnAZEkoILkJEmC5JyDZDGgnjlnUTGLgiIoZszhTOd5et799IxA/d73Vb2entmenR7YXZbZ
         98eHWbqrq6uqq771Kp+w6jVjFEVRUok1rxuzcI8xL35jjIqcoigph4qcoigpjYqcoigpjYqcoigpjYqc
         oigpjYqcoigpjYqcoigpjYqcoigpjYqcoigpjYqcoigpjYqcoigpjYqcoigpjYqcoigpjYqcoigpjYqc
@@ -1485,7 +1485,7 @@ de apoyo tanto para estudiantes como para instituciones educativas o escuelas de
   <data name="pictureBox4.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAATkAAAFkCAYAAABb8UzYAAAAIGNIUk0AAHolAACAgwAA+f8AAIDoAABS
-        CAABFVgAADqXAAAXb9daH5AAAAAJcEhZcwAADsMAAA7DAcdvqGQAAFVvSURBVHhe7Z13oBXF9ccFHr1L
+        CAABFVgAADqXAAAXb9daH5AAAAAJcEhZcwAADsIAAA7CARUoSoAAAFVvSURBVHhe7Z13oBXF9ccFHr1L
         b9KriAgICEpHkKKgIKggRUBQem/Sy6NLUTHGFmuwBCuo2FC6FBV7N2qiMb/EJJooyvzme2bOfbv37Wt3
         9713797zx8cne7fMTvnOmZkzZ89Y84ZSgiAIYWLdUaWWHFRq79dKicgJghA6ROQEQQg1InKCIIQaETlB
         EEKNiJwgCKFGRE4QhFAjIicIQqgRkRMEIdSIyAmCEGpE5ARBCDUicoIghBoROUEQQo2InCAIoUZEThCE
@@ -1856,7 +1856,7 @@ de apoyo tanto para estudiantes como para instituciones educativas o escuelas de
   <data name="button1.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAAUMAAAFDCAYAAACgM2wHAAAAIGNIUk0AAHolAACAgwAA+f8AAIDoAABS
-        CAABFVgAADqXAAAXb9daH5AAAAAJcEhZcwAADsIAAA7CARUoSoAAAEULSURBVHhe7Z15bFZl9sd/iYmJ
+        CAABFVgAADqXAAAXb9daH5AAAAAJcEhZcwAADsEAAA7BAbiRa+0AAEULSURBVHhe7Z15bFZl9sd/iYmJ
         ickkJiYmJiaO7IIiKIug4IIiKIoiIIoiKAi0QAulG7SFthTLVkD2sm9l60b3fd8XWloo3WhLacsmm6My
         48zze79Pp06HObRv23vve+/7nj8+MR6Re++znPc8z9n+TwjBMAxj85BChmEYW4MUMgzD2BqkkGEYxtYg
         hQzDMLYGKWSYrlLWcPuptAstgyIKrrx9MvPy5IPJ1TN3xlbYbTpb7uJ7psTP/Vjhdsf9eUcdTCzZnxe0
